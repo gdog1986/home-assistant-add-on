@@ -1,0 +1,23 @@
+{
+  "name": "Firefly III",
+  "version": "1.0.0",
+  "slug": "fireflyiii",
+  "description": "Self-hosted personal finances manager",
+  "url": "https://github.com/gdog1986/home-assistant-add-on/fireflyiii",
+  "arch": ["amd64"],
+  "startup": "services",
+  "boot": "auto",
+  "ports": {
+    "8777/tcp": 8777
+  },
+  "ports_description": {
+    "8777/tcp": "Firefly III web interface"
+  },
+  "options": {
+    "cron_token": ""
+  },
+  "schema": {
+    "cron_token": "str?"
+  },
+  "image": "ghcr.io/gdog1986//home-assistant-add-on/{arch}-fireflyiii"
+}
