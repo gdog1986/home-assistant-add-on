@@ -6,7 +6,7 @@
 
 This repository contains the following add-ons
 
-### [Firefly III add-on](./home-assistant-add-on)
+### [Firefly III add-on](./HA_FireflyIII)
 
 ![Supports amd64 Architecture][amd64-shield]
 
