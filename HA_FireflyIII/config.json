@@ -19,6 +19,7 @@
   "schema": {
     "cron_token": "str?"
   },
-  "image": "ghcr.io/gdog1986/{arch}-HomeAssistant-Fireflyiii"
+  "image": "ghcr.io/gdog1986/home-assistant-add-on/HA_FireflyIII"
 }
+
 
