@@ -7,8 +7,10 @@
 This repository contains the following add-ons
 
 ### [Firefly III add-on](./HA_FireflyIII)
+### [FireflyIII add-on](./fireflyiii)
 
 ![Supports amd64 Architecture][amd64-shield]
 
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+
