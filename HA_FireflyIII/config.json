@@ -1,9 +1,9 @@
 {
   "name": "Firefly III",
   "version": "1.0.0",
-  "slug": "fireflyiii",
+  "slug": "HA_FireflyIII",
   "description": "Self-hosted personal finances manager",
-  "url": "https://github.com/gdog1986/HomeAssistant-Fireflyiii",
+  "url": "https://github.com/gdog1986/home-assistant-add-on/HA_FireflyIII",
   "arch": ["amd64"],
   "startup": "services",
   "boot": "auto",
@@ -21,3 +21,4 @@
   },
   "image": "ghcr.io/gdog1986/{arch}-HomeAssistant-Fireflyiii"
 }
+
